@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: "Про группу и Магистерскую работу"
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[Про группу и Магистерскую работу]]
